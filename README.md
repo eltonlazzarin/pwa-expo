@@ -3,7 +3,8 @@
 </h1>
 
 <h3 align="center">
-PWA - In short, it is a web application with technologies that allows us to have the user experience very close to that offered by mobile apps. For that reason, I found the proposal interesting and in a weekend decided to learn a little more about this technology and then I decided to develop a small application that lists my GitHub repositories and still access my camera via browser. For the creation of this PWA I used React Native in conjunction with Expo to facilitate creation in the environment and development of the application.</h3>
+  PWA developed from React Native &amp; Expo Web
+</h3>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/pwa-expo">
@@ -31,7 +32,7 @@ PWA - In short, it is a web application with technologies that allows us to have
 	<img alt="Project Gif" src="https://github.com/eltonlazzarin/pwa-expo/blob/master/screenshots/pwaexpo.gif" hight="380" width="350" />
 </h1>
 
-<p>Simple PWA developed from React Native &amp; Expo Web</p>
+<p>PWA - In short, it is a web application with technologies that allows us to have the user experience very close to that offered by mobile apps. For that reason, I found the proposal interesting and in a weekend decided to learn a little more about this technology and then I decided to develop a small application that lists my GitHub repositories and still access my camera via browser. For the creation of this PWA I used React Native in conjunction with Expo to facilitate creation in the environment and development of the application.</p>
 
 ## 🚀 Technologies
 
