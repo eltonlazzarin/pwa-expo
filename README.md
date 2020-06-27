@@ -6,8 +6,6 @@
   PWA developed from React Native &amp; Expo Web
 </h3>
 
-<p align="center"></p>
-
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/pwa-expo">
 
@@ -31,7 +29,7 @@
 ## 👨🏻‍💻 About the project
 
 <h1 align="center">
-	<img alt="VSCode Project Codes" src="https://github.com/eltonlazzarin/node-typescript-structure/blob/master/screenshots/vscode.png" />
+	<img alt="Project Gif" src="https://github.com/eltonlazzarin/pwa-expo/blob/master/screenshots/pwaexpo.gif" hight="380" width="350" />
 </h1>
 
 <p>Simple PWA developed from React Native &amp; Expo Web</p>
